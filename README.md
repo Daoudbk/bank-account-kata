@@ -41,4 +41,5 @@ GET : "api/operations?accountId=''&startOperationDate=''&endOperationDate=''"
 ## Launch tests
 ```bash
 $ docker-compose -f docker/docker-compose.yml up -d
-$ mvn cle
+$ mvn clean install
+```
