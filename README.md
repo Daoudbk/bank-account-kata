@@ -29,7 +29,7 @@ POST : "api/operations"
 }
 
 #### See the history (operation, date, amount, balance)  of my operations  
-GET : "api/operations?accountId=''&startOperationDate=''&endOperationDate=''" 
+GET : "api/operations?accountId=1&startOperationDate=2019-01-30T06:01:46&endOperationDate=2020-01-30T06:01:46" 
 
 
 # Building
